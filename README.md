@@ -38,6 +38,6 @@ Running it in gdb shows the following backtrace:
 ````
 
 Tested on:
-Fedora 31, gcc version 9.3.1 20200317 (Red Hat 9.3.1-1) (GCC), python3-3.7.6-2.fc31.x86_64
+ * Fedora 31, gcc version 9.3.1 20200317 (Red Hat 9.3.1-1) (GCC), python3-3.7.6-2.fc31.x86_64
 
 
