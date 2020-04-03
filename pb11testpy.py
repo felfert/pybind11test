@@ -1,4 +1,4 @@
-import doesnotexist
+#import doesnotexist
 import threading
 import time
 try:

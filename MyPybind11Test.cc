@@ -35,8 +35,8 @@ void MyPybind11Test::stop() {
 }
 
 int main(int argc, const char **argv) {
+    pybind11::scoped_interpreter guard;
     try {
-        pybind11::scoped_interpreter guard;
         MyPybind11Test test(10);
         test.start();
         {
